@@ -3,3 +3,5 @@
 1. Add a new book
 2. Display a list of books
 3. Show/hide the list book
+
+Please see the attached 'CS571-class-assignemt2'
